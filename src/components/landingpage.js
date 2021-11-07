@@ -94,7 +94,7 @@ class LandingPage extends Component{
                         </div>
                     </Cell>
                     <br/> <br/> <br/>
-                    <strong>Copyright &copy; Arjun Luthra 2020</strong>
+                    <strong>Copyright &copy; Arjun Luthra {new Date().getFullYear()}</strong>
                     <br/> <br/> <br/>
                 </Grid>
 
