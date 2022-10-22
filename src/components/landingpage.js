@@ -27,12 +27,12 @@ class LandingPage extends Component{
                             
                             Hello, and welcome to my personal website. <br/><br/>
 
-                            My name is Arjun Luthra and I am currently working as a Software Developer under the Wireless Technology Products (WTP) team at Bell Mobility. <br/><br/>
+                            My name is Arjun Luthra and I am currently working as a Software Engineer under the Wireless Technology Ecosystems (WTE) team at Apple. <br/><br/>
                             
                             I graduated from the University of Toronto majoring in Computer Science with a minor in Statistics as of May 2020. <br/><br/>
                             
-                            I'm a software engineer with full-stack experience, including React (web and native), Java (object oriented prgramming),
-                            Python (general scripting and automation), some Computer Networking (TCP/IP) and Docker. <br/><br/>
+                            I'm a software engineer with automation and full-stack experience, including React (web and native), Java (object oriented prgramming),
+                            Python (general scripting and automation), Computer Networking (TCP/IP) and Docker. <br/><br/>
 
                             Please feel free to take a look at my 
 

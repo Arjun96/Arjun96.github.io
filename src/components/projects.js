@@ -92,7 +92,7 @@ class Projects extends Component{
                                 </CardActions>
                             </Card>
                         </div>
-                        <strong>Copyright &copy; Arjun Luthra 2020</strong>
+                        <strong>Copyright &copy; Arjun Luthra {new Date().getFullYear()}</strong>
                     </Cell>
                 </Grid>
             </div>
